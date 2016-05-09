@@ -1,0 +1,22 @@
+{
+  "name": "jarz",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "async": "^1.4.2",
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "joi": "^7.0.1",
+    "less": "^2.5.3",
+    "less-middleware": "^2.0.1",
+    "moment": "^2.10.6",
+    "nib": "^1.1.0",
+    "postageapp": "^1.1.4",
+    "redis": "^2.4.2",
+    "request": "~2.58.0",
+    "stylus": "^0.52.4"
+  }
+}
